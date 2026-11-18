@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "laravel.vscode-laravel",
+        "open-southeners.laravel-pint",
+        "esbenp.prettier-vscode"
+    ]
+}
